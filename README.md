@@ -12,7 +12,7 @@ A **Fundação Oswaldo Cruz (Fiocruz)** é uma instituição de pesquisa e desen
 - **Remuneração**: variam entre R$5.735,29 a R$13.686,72 + benefícios (ver o Edital, Cargo e Perfil para maior detalhamento)
 - **Inscrições (encerradas)**: de 22 de janeiro a 5 de março de 2024
 - **Prova objetiva (concluída)**: 28 de abril de 2024
-- **Em andamento (data de referência 10/06/2024)**: Análise das provas discursivas e etapa de análise de títulos.
+- **Em andamento**: Análise das provas discursivas e etapa de análise de títulos.
 
 # Análise de dados
 
