@@ -40,3 +40,5 @@ As fontes de dados primárias se encontram disponíveis em: [Concurso Fiocruz 20
 
 - Os datasets apresentados são um conjunto de dados previamente tratados e originados a partir dos dados primários divulgados publicamente pela organizadora do certame.
 - Foram excluídos nos datasets armazenados no GitHub (fonte secundária) os nomes completos dos candidatos, contudo foi mantido o primeiro nome do candidato, conforme o seu respectivo número de inscrição.
+
+Data de referência: 12/06/2024
