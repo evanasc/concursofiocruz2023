@@ -18,7 +18,7 @@ A **Fundação Oswaldo Cruz (Fiocruz)** é uma instituição de pesquisa e desen
 
 A análise de dados do resultado de concursos públicos pode ser considerada e quando bem adotada de uma prática de grande relevância no contexto da gestão pública e dos processos seletivos. Tal prática justifica-se pela necessidade de garantir a transparência, eficiência e equidade no processo de seleção de candidatos para cargos públicos.
 
-Ao analisarmos os resultados do concurso, é possível identificar padrões e tendências que podem fornecer informações sobre o desempenho dos candidatos, a distribuição das notas, a eficácia das diferentes etapas do processo seletivo e até mesmo características demográficas dos participantes. Por exemplo, é possível observar se há uma concentração de notas em determinadas faixas, se algumas questões foram especialmente difíceis ou fáceis, e se há diferenças significativas de desempenho entre grupos de candidatos.
+Ao analisarmos os resultados do concurso, é possível identificar padrões e tendências que podem fornecer informações sobre o desempenho dos candidatos, a distribuição das notas, a eficácia das diferentes etapas do processo seletivo e até mesmo características demográficas dos participantes. Por exemplo, é possível observar se há uma concentração de faixa de notas em determinados cargos, se algumas áreas houveram questões  especialmente difíceis ou fáceis (notas mais baixas ou altas), indíce de aprovação, e se há diferenças significativas de desempenho entre grupos de candidatos.
 
 ## Análise de Resultados
 
