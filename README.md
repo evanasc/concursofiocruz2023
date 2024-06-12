@@ -31,3 +31,7 @@ Analisar os resultados finais de um concurso público tem várias finalidades im
 - **Garantia da Meritocracia:** Verifica se os candidatos selecionados possuem as habilidades e qualificações necessárias para desempenhar as funções do cargo, garantindo o princípio da meritocracia.
 
 - **Feedback para Candidatos:** Fornece feedback aos candidatos sobre seu desempenho no concurso, auxiliando-os a identificar pontos fortes e áreas de desenvolvimento.
+
+### Notas adicionais
+
+- Foram excluído dos datasets armazenados no GitHub os nomes completos dos candidatos, permanecendo o número de inscrição e o primeiro nome.
