@@ -4,7 +4,7 @@ A **Fundação Oswaldo Cruz (Fiocruz)** é uma instituição de pesquisa e desen
 
 ## Processo Seletivo
 
-Normalmente os concursos seguem um processo seletivo, geralmente composto por diversas etapas, como provas escritas, análise curricular, avaliação de títulos, defesa de projetos, entre outras, dependendo do cargo e da área de atuação.
+Normalmente os concursos seguem um processo seletivo, composto por diversas etapas, como provas objetivas e discursivas ou puramente escritas, análise curricular, avaliação de títulos, entre outras, dependendo do cargo e da área de atuação.
 
 ## Análise de Resultados
 
