@@ -14,9 +14,11 @@ A **Fundação Oswaldo Cruz (Fiocruz)** é uma instituição de pesquisa e desen
 - **Prova objetiva (concluída)**: 28 de abril de 2024
 - **Em andamento (data de referência 10/06/2024)**: Análise das provas discursivas e etapa de análise de títulos.
 
-### Fontes de Dados
+# Análise de dados
 
-As fontes de dados primárias se encontram disponíveis em: [Concurso Fiocruz 2023](https://concurso2023.fiotec.fiocruz.br/Analista.asp)
+A análise de dados do resultado de concursos públicos pode ser considerada e quando bem adotada de uma prática de grande relevância no contexto da gestão pública e dos processos seletivos. Tal prática justifica-se pela necessidade de garantir a transparência, eficiência e equidade no processo de seleção de candidatos para cargos públicos.
+
+Ao analisarmos os resultados do concurso, é possível identificar padrões e tendências que podem fornecer informações sobre o desempenho dos candidatos, a distribuição das notas, a eficácia das diferentes etapas do processo seletivo e até mesmo características demográficas dos participantes. Por exemplo, é possível observar se há uma concentração de notas em determinadas faixas, se algumas questões foram especialmente difíceis ou fáceis, e se há diferenças significativas de desempenho entre grupos de candidatos.
 
 ## Análise de Resultados
 
@@ -31,6 +33,10 @@ Analisar os resultados finais de um concurso público tem várias finalidades im
 - **Garantia da Meritocracia:** Verifica se os candidatos selecionados possuem as habilidades e qualificações necessárias para desempenhar as funções do cargo, garantindo o princípio da meritocracia.
 
 - **Feedback para Candidatos:** Fornece feedback aos candidatos sobre seu desempenho no concurso, auxiliando-os a identificar pontos fortes e áreas de desenvolvimento.
+
+## Fontes de Dados
+
+As fontes de dados primárias se encontram disponíveis em: [Concurso Fiocruz 2023](https://concurso2023.fiotec.fiocruz.br/Analista.asp)
 
 ### Notas adicionais
 
