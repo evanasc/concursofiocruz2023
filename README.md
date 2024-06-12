@@ -35,4 +35,4 @@ Analisar os resultados finais de um concurso público tem várias finalidades im
 ### Notas adicionais
 
 - Os datasets apresentados são um conjunto de dados previamente tratados originados a partir dos dados primários divulgados publicamente pela organizadora do certame.
-- Foram excluídos nos datasets armazenados no GitHub (fonte secundária) os nomes completos dos candidatos, permanecendo o número de inscrição e apenas o respectivo primeiro nome.
+- Foram excluídos nos datasets armazenados no GitHub (fonte secundária) os nomes completos dos candidatos, permanecendo o número de inscrição e o respectivo primeiro nome do candidato.
