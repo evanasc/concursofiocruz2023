@@ -5,7 +5,7 @@ A **Fundação Oswaldo Cruz (Fiocruz)** é uma instituição de pesquisa e desen
 ## Processo Seletivo - Concurso Fiocruz 2023
 
 - **Órgão do Governo Federal**: Fundação Oswaldo Cruz
-- **Banca**: FIOTEC
+- **Banca organizadora**: FIOTEC
 - **Cargos**: Tecnologista em Saúde Pública, Analista de Gestão em Saúde e Pesquisador em Saúde Pública 
 - **Requisitos**: formação de nível superior na área de atuação pretendida
 - **Vagas**: 300 
