@@ -20,6 +20,18 @@ Analisar os resultados finais de um concurso público tem várias finalidades im
 
 - **Feedback para Candidatos:** Fornece feedback aos candidatos sobre seu desempenho no concurso, auxiliando-os a identificar pontos fortes e áreas de desenvolvimento.
 
+### Concurso Fiocruz
+
+- **Órgão do Governo Federal**: Fundação Oswaldo Cruz
+- **Banca**: FIOTEC
+- **Cargos**: Tecnologista em Saúde Pública, Analista de Gestão em Saúde e Pesquisador em Saúde Pública 
+- **Requisitos**: formação de nível superior na área de atuação pretendida
+- **Vagas**: 300 
+- **Remuneração**: variam entre R$5.735,29 a R$13.686,72 + benefícios (ver o Edital, Cargo e Perfil para maior detalhamento)
+- **Inscrições (encerradas)**: de 22 de janeiro a 5 de março de 2024
+- **Prova objetiva (concluída)**: 28 de abril de 2024
+- **Em andamento (data de referência 10/06/2024)**: Análise das provas discursivas e etapa de análise de títulos.
+
 ### Fontes de Dados
 
 As fontes de dados primárias se encontram disponíveis em: [Concurso Fiocruz 2023](https://concurso2023.fiotec.fiocruz.br/Analista.asp)
