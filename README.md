@@ -20,9 +20,7 @@ A análise de dados do resultado de concursos públicos pode ser considerada e q
 
 Ao analisarmos os resultados do concurso, é possível identificar padrões e tendências que podem fornecer informações sobre o desempenho dos candidatos, a distribuição das notas, a eficácia das diferentes etapas do processo seletivo e até mesmo características demográficas dos participantes. Por exemplo, é possível observar se há uma concentração de faixa de notas em determinados cargos, se algumas áreas houveram questões  especialmente difíceis ou fáceis (notas mais baixas ou altas), indíce de aprovação, e se há diferenças significativas de desempenho entre grupos de candidatos.
 
-## Análise de Resultados
-
-Analisar os resultados finais de um concurso público tem várias finalidades importantes:
+## Alguns benefícios
 
 - **Transparência e Prestação de Contas:** Permite garantir que o processo de seleção foi conduzido de forma justa, imparcial e em conformidade com as regras estabelecidas no edital do concurso. Isso promove transparência e ajuda a evitar suspeitas de favoritismo ou corrupção.
 
