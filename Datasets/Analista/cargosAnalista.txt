@@ -1,11 +1,11 @@
-Nota: As informações abaixo são apenas para este conjunto de dados.
+Nota: As informaÃ§Ãµes abaixo sÃ£o apenas para este conjunto de dados.
 
-Sigla: A sigla é uma abreviação que representa é uma combinação de letras ou números que identifica de forma única o cargo correspondente.
+Sigla: A sigla Ã© uma abreviaÃ§Ã£o que representa Ã© uma combinaÃ§Ã£o de letras ou nÃºmeros que identifica de forma Ãºnica o cargo correspondente.
 Perfil: O perfil refere-se a nomenclatura que define o cargo.
-Estado: O estado indica o estado associado a vaga.
-Unidades e Órgãos Seccionais: Auditoria; Bio-Manguinhos; COC; Cogead; Cogepe; Cogeplan; Cogetic; Cogic; Corregedoria; ENSP; EPSJV; Farmanguinhos; Fiocruz Ceará; Fiocruz Mato Grosso do Sul; Fiocruz Rondônia; Gereb; IAM; ICC; Icict; ICTB; IFF; IGM; ILMD; INCQS; INI; IOC; IRR; Ouvidoria
-Candidatos negros: Este campo refere-se a políticas ou ações afirmativas adotadas por uma organização para promover a igualdade racial e a inclusão de pessoas negras em processos seletivos, concursos públicos ou oportunidades de emprego e educação.
-Ampla concorrência: Este campo refere-se à modalidade de seleção em que todos os candidatos, independentemente de sua origem, raça, gênero ou outras características, competem em igualdade de condições por uma vaga, cargo ou oportunidade.
+Estado: Indica o estado associado a vaga.
+Unidades e Ã“rgÃ£os Seccionais: Auditoria; Bio-Manguinhos; COC; Cogead; Cogepe; Cogeplan; Cogetic; Cogic; Corregedoria; ENSP; EPSJV; Farmanguinhos; Fiocruz CearÃ¡; Fiocruz Mato Grosso do Sul; Fiocruz RondÃ´nia; Gereb; IAM; ICC; Icict; ICTB; IFF; IGM; ILMD; INCQS; INI; IOC; IRR; Ouvidoria
+Candidatos negros: Este campo refere-se a polÃ­ticas ou aÃ§Ãµes afirmativas adotadas por uma organizaÃ§Ã£o para promover a igualdade racial e a inclusÃ£o de pessoas negras em processos seletivos, concursos pÃºblicos ou oportunidades de emprego e educaÃ§Ã£o.
+Ampla concorrÃªncia: Este campo refere-se Ã  modalidade de seleÃ§Ã£o em que todos os candidatos, independentemente de sua origem, raÃ§a, gÃªnero ou outras caracterÃ­sticas, competem em igualdade de condiÃ§Ãµes por uma vaga, cargo ou oportunidade.
 
 
 
