@@ -20,8 +20,6 @@ Os documentos associados ao Processo Seletivo - Concurso Fiocruz 2023 para os re
 
 **URL**: https://concurso2023.fiotec.fiocruz.br
 
-**Data de referência**: 01/07/2024
-
 # Análise de dados
 
 A análise de dados do resultado de concursos públicos pode ser considerada e quando bem adotada de uma prática de grande relevância no contexto da gestão pública e dos processos seletivos. Tal prática justifica-se pela necessidade de garantir a transparência, eficiência e equidade no processo de seleção de candidatos para cargos públicos.
@@ -49,4 +47,4 @@ As fontes de dados primárias se encontram disponíveis em: [Concurso Fiocruz 20
 - Os datasets apresentados são um conjunto de dados previamente tratados e originados a partir dos dados primários divulgados publicamente pela organizadora do certame.
 - Foram excluídos nos datasets armazenados no GitHub (fonte secundária) os nomes completos dos candidatos, contudo foi mantido o primeiro nome do candidato, conforme o seu respectivo número de inscrição.
 
-Data de referência: 12/06/2024
+**Data de referência**: 01/07/2024
