@@ -16,9 +16,10 @@ A **Fundação Oswaldo Cruz (Fiocruz)** é uma instituição de pesquisa e desen
 
 ### Documentos
 
-Os documentos associados ao Processo Seletivo - Concurso Fiocruz 2023 para os cargos se encontram disponíveis em: 
+Os documentos associados ao Processo Seletivo - Concurso Fiocruz 2023 para os respectivos cargos e os resultados publicados se encontram disponíveis em: 
 
 **URL**: https://concurso2023.fiotec.fiocruz.br
+**Data de referência**: 01/07/2024
 
 # Análise de dados
 
