@@ -14,6 +14,12 @@ A **Fundação Oswaldo Cruz (Fiocruz)** é uma instituição de pesquisa e desen
 - **Prova objetiva (concluída)**: 28 de abril de 2024
 - **Em andamento**: Análise das provas discursivas e etapa de análise de títulos.
 
+### Documentos
+
+Os documentos associados ao Processo Seletivo - Concurso Fiocruz 2023 para os cargos se encontram disponíveis em: 
+
+**URL**: https://concurso2023.fiotec.fiocruz.br
+
 # Análise de dados
 
 A análise de dados do resultado de concursos públicos pode ser considerada e quando bem adotada de uma prática de grande relevância no contexto da gestão pública e dos processos seletivos. Tal prática justifica-se pela necessidade de garantir a transparência, eficiência e equidade no processo de seleção de candidatos para cargos públicos.
