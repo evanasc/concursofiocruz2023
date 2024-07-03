@@ -1,30 +1,30 @@
-Nota: As informações abaixo são apenas para o conjunto de dados: cargosDistribuicao_Tecnologista.csv
+Nota: As informaÃ§Ãµes abaixo sÃ£o apenas para o conjunto de dados: cargosDistribuicao_Tecnologista.csv
 
-Sigla: A sigla é uma abreviação que representa é uma combinação de letras ou números que identifica de forma única o cargo correspondente no qual os candidatos estão se inscrevendo no processo seletivo.
+Sigla: A sigla Ã© uma abreviaÃ§Ã£o que representa Ã© uma combinaÃ§Ã£o de letras ou nÃºmeros que identifica de forma Ãºnica o cargo correspondente no qual os candidatos estÃ£o se inscrevendo no processo seletivo.
 Perfil: O perfil refere-se a nomenclatura que define o cargo.
 Estado: Indica o estado associado a vaga.
-D1_minimo: Nota mínima por cargo para ser aprovado.
-D2_minimo: Nota mínima por cargo para ser aprovado.
-Unidades e Órgãos Seccionais: Bio-Manguinhos; COC; Cogepe; Cogetic; Cogic; Corregedoria; ENSP; EPSJV; Farmanguinhos; IAM; ICC; Icict; ICTB; IFF; IGM; ILMD; INCQS; INI; IOC; IRR.
-Candidatos negros: Este campo refere-se a políticas ou ações afirmativas adotadas por uma organização para promover a igualdade racial e a inclusão de pessoas negras em processos seletivos, concursos públicos ou oportunidades de emprego e educação.
-Ampla concorrência: Este campo refere-se à modalidade de seleção em que todos os candidatos, independentemente de sua origem, raça, gênero ou outras características, competem em igualdade de condições por uma vaga, cargo ou oportunidade.
+D1_minimo: Nota mÃ­nima por cargo para ser aprovado.
+D2_minimo: Nota mÃ­nima por cargo para ser aprovado.
+Unidades e Ã“rgÃ£os Seccionais: Bio-Manguinhos; COC; Cogepe; Cogetic; Cogic; Corregedoria; ENSP; EPSJV; Farmanguinhos; IAM; ICC; Icict; ICTB; IFF; IGM; ILMD; INCQS; INI; IOC; IRR.
+Candidatos negros: Este campo refere-se a polÃ­ticas ou aÃ§Ãµes afirmativas adotadas por uma organizaÃ§Ã£o para promover a igualdade racial e a inclusÃ£o de pessoas negras em processos seletivos, concursos pÃºblicos ou oportunidades de emprego e educaÃ§Ã£o.
+Ampla concorrÃªncia: Este campo refere-se Ã  modalidade de seleÃ§Ã£o em que todos os candidatos, independentemente de sua origem, raÃ§a, gÃªnero ou outras caracterÃ­sticas, competem em igualdade de condiÃ§Ãµes por uma vaga, cargo ou oportunidade.
 
-Nota: As informações abaixo são apenas para o conjunto de dados: Relatorio-Tecnologistas-ResFinal-Objetiva.csv
+Nota: As informaÃ§Ãµes abaixo sÃ£o apenas para o conjunto de dados: Relatorio-Tecnologistas-ResFinal-Objetiva.csv
 
-Cargo: Abreviação que representa uma combinação de letras ou números que identifica de forma única o cargo correspondente no qual os candidatos estão se inscrevendo no processo seletivo. De acordo com a informação do arquivo Novo-Relatorio-Analistas-ResFinal-Objetiva.pdf
-Inscrição: Indica o número ou código único atribuído a cada inscrição no processo seletivo. É utilizado para identificar e rastrear os candidatos ao longo do processo.
-Primeiro_nome: Este campo contém o primeiro nome do candidato que se inscreveu para o cargo específico. Removido demais informações.
-D1: Nota atribuída na avaliação final da Prova Objetiva de conhecimentos específicos na área de atuação.
-D2: Nota atribuída na avaliação final da Prova Objetiva de conhecimentos específicos no perfil.
-NFObj: Nota atribuída ao somatório da nota obtida na Prova Objetiva de conhecimentos específicos na área de atuação (Peso 1) + nota obtida na Prova Objetiva de conhecimentos específicos no perfil (peso 2).
-Status: Indica o estado do candidato associado ao dia da avaliação no processo seletivo. Pode incluir informações como "Compareceu", "Eliminado" e "Faltoso".
+Cargo: AbreviaÃ§Ã£o que representa uma combinaÃ§Ã£o de letras ou nÃºmeros que identifica de forma Ãºnica o cargo correspondente no qual os candidatos estÃ£o se inscrevendo no processo seletivo. De acordo com a informaÃ§Ã£o do arquivo Novo-Relatorio-Analistas-ResFinal-Objetiva.pdf
+InscriÃ§Ã£o: Indica o nÃºmero ou cÃ³digo Ãºnico atribuÃ­do a cada inscriÃ§Ã£o no processo seletivo. Ã‰ utilizado para identificar e rastrear os candidatos ao longo do processo.
+Primeiro_nome: Este campo contÃ©m o primeiro nome do candidato que se inscreveu para o cargo especÃ­fico. Removido demais informaÃ§Ãµes.
+D1: Nota atribuÃ­da na avaliaÃ§Ã£o final da Prova Objetiva de conhecimentos especÃ­ficos na Ã¡rea de atuaÃ§Ã£o.
+D2: Nota atribuÃ­da na avaliaÃ§Ã£o final da Prova Objetiva de conhecimentos especÃ­ficos no perfil.
+NFObj: Nota atribuÃ­da ao somatÃ³rio da nota obtida na Prova Objetiva de conhecimentos especÃ­ficos na Ã¡rea de atuaÃ§Ã£o (Peso 1) + nota obtida na Prova Objetiva de conhecimentos especÃ­ficos no perfil (peso 2).
+Status: Indica o estado do candidato associado ao dia da avaliaÃ§Ã£o no processo seletivo. Pode incluir informaÃ§Ãµes como "Compareceu", "Eliminado" e "Faltoso".
 
-Nota: As informações abaixo são apenas para o conjunto de dados: Classificacao-Objetiva-Tecnologistas-AntesDiscur.csv
+Nota: As informaÃ§Ãµes abaixo sÃ£o apenas para o conjunto de dados: Classificacao-Objetiva-Tecnologistas-AntesDiscur.csv
 
-Cargo: Abreviação que representa uma combinação de letras ou números que identifica de forma única o cargo correspondente ao qual os candidatos estão se inscrevendo no processo seletivo.
-Class: Indica a classificação ou posição do candidato em relação aos demais participantes do processo seletivo. É comumente usado para determinar a ordem de prioridade na seleção de candidatos.
-Inscrição: É o número ou código único atribuído a cada inscrição no processo seletivo. É utilizado para identificar e rastrear os candidatos ao longo do processo.
-Concorre Vagas Negros: Este campo indica se o candidato concorre às vagas destinadas a pessoas negras como parte de políticas de ação afirmativa ou cotas raciais. Valores: S ou N
-Concorre Vagas PCD: Indica se o candidato concorre às vagas destinadas a pessoas com deficiência (PCD) como parte de políticas de inclusão ou cotas reservadas. Valores: S ou N
-NFObj: Nota atribuída ao somatório da nota obtida na Prova Objetiva de conhecimentos específicos na área de atuação (Peso 1) + nota obtida na Prova Objetiva de conhecimentos específicos no perfil (peso 2).
-Selecionado para correção da prova discursiva: Indica se o candidato foi selecionado para a próxima etapa do processo seletivo, que neste caso é a correção da prova discursiva. Valores: S ou N 
+Cargo: AbreviaÃ§Ã£o que representa uma combinaÃ§Ã£o de letras ou nÃºmeros que identifica de forma Ãºnica o cargo correspondente ao qual os candidatos estÃ£o se inscrevendo no processo seletivo.
+Class: Indica apenas a ordenaÃ§Ã£o alfabÃ©tica dos nomes dos candidatos para o respectivo cargo.
+InscriÃ§Ã£o: Ã‰ o nÃºmero ou cÃ³digo Ãºnico atribuÃ­do a cada inscriÃ§Ã£o no processo seletivo. Ã‰ utilizado para identificar e rastrear os candidatos ao longo do processo.
+Concorre Vagas Negros: Este campo indica se o candidato concorre Ã s vagas destinadas a pessoas negras como parte de polÃ­ticas de aÃ§Ã£o afirmativa ou cotas raciais. Valores: S ou N
+Concorre Vagas PCD: Indica se o candidato concorre Ã s vagas destinadas a pessoas com deficiÃªncia (PCD) como parte de polÃ­ticas de inclusÃ£o ou cotas reservadas. Valores: S ou N
+NFObj: Nota atribuÃ­da ao somatÃ³rio da nota obtida na Prova Objetiva de conhecimentos especÃ­ficos na Ã¡rea de atuaÃ§Ã£o (Peso 1) + nota obtida na Prova Objetiva de conhecimentos especÃ­ficos no perfil (peso 2).
+Selecionado para correÃ§Ã£o da prova discursiva: Indica se o candidato foi selecionado para a prÃ³xima etapa do processo seletivo, que neste caso Ã© a correÃ§Ã£o da prova discursiva. Valores: S ou N 
